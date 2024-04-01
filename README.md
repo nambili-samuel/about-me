@@ -1,5 +1,3 @@
-# Nambili Samuel
-
 ## About Me
 I was born in Oshikango, Namibia in a strict family and I grew up surrounded by people who always encouraged me to strive for greatness. I am a trained physician with extensive experience in public healthcare. 
 
