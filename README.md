@@ -1,27 +1,28 @@
-## About Me
-I was born in Oshikango, Namibia in a strict family and I grew up surrounded by people who always encouraged me to strive for greatness. I am a trained physician with extensive experience in public healthcare. 
+## About Nambili Samuel
+Nambili Samuel was born in Oshikango, Namibia, into a family descended from the Okandjera royal lineage. As a young boy, he grew up surrounded by people who always encouraged him to strive for greatness. He is a trained soldier and physician by profession, with extensive experience in public healthcare and national epidemiology. 
 
-One of the most significant events in my life was my military training. As a young man, I was drawn to the idea of serving my country and protecting her people. I underwent rigorous training, courses, and discipline. It was during this time that I developed a strong sense of commitment and dedication as a professional military personnel. Military helped me to learn discipline, teamwork, and leadership. It was through my military training that I learned the importance of sacrifice and how to work towards a target goal.
+One of the most significant events in Nambili Samuel's life was his military training. As a patriot, he was drawn to the idea of serving the Motherland and protecting her people. Nambili underwent rigorous training, including medical combat courses, which instilled in him discipline and a sense of duty. It was during this time that he developed a strong commitment to a medical career as a professional military personnel. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
 
-My military experience has been a defining moment in my life, it taught me valuable life lessons that I continue to apply in my everyday life. It also helped me to become a better leader, a more disciplined person, and a more patriotic citizen.
+His military experience has been a defining moment in his life, instilling in him valuable life lessons that he continues to apply in his everyday life. It also helped him become a disciplined person and a more patriotic citizen.
 
-Throughout my service in the Namibian Defence Force (NDF), I have demonstrated proficiency in emergency medicine, trauma care, and patient evacuation, contributing to mission success and the well-being of fellow service members. As a combat medic, I provide frontline medical support to military personnel in combat and training environments. My responsibilities include:
+Throughout his service in the Namibian Defence Force (NDF), Nambili has demonstrated proficiency in emergency medicine, trauma care, patient evacuation, first aid, and primary health care. As a combat medic, he provides medical support to fellow service members in combat and training environments. His responsibilities include:
 
 - Administering emergency medical treatment and dispersing treatment to members of the armed forces.
 - Observing medical procedures, combat casualty care, and evacuation.
 - Providing primary care services, including sick calls, immunizations, and preventive health screenings.
 - Conducting medical assessments and managing minor illnesses and injuries.
-- Assisting with medical readiness activities, including physical exams and deployment screenings.
-- Collaborating with other healthcare providers to ensure comprehensive patient care.
+- Assisting with medical readiness activities, including physical exams and medical screenings.
+- Collaborating with other healthcare providers to ensure comprehensive patient care in NDF.
 
 ## Education
 
+- Oshona Military School, Medical Specialisation and Combat Medic training, [2002]
 - Computer Programming, Institute of Information and Technology, [2012]
 - Big Data, [Istanbul University](https://www.istanbul.edu.tr/en/), [2014]
 - Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017-]
-- Master of Medicines (MMed), [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
+- General Medicine, [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
 
-As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, I have pursued a diverse range of certifications to continually expand my knowledge and skills. These certifications represent not only my dedication to professional development but also my passion for staying abreast of the latest advancements in healthcare and medical science. I am proud to share these achievements as a testament to my ongoing pursuit of excellence in service to others.
+As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, Nambili has pursued a diverse range of certifications to continually expand his knowledge and skills. These certifications represent not only his dedication to health professional development but also his passion for staying abreast of the latest advancements in healthcare and medical science. Git Hub is proud to share these achievements as a testament to his ongoing pursuit of excellence in service to others.
 
 I am a dedicated military medic with extensive experience providing medical care in challenging and austere environments. Throughout my service, I have demonstrated proficiency in emergency medicine, trauma care, and patient evacuation, contributing to mission success and the well-being of fellow service members.
 
