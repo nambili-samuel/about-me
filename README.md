@@ -5,7 +5,7 @@ One of the most significant events in Nambili Samuel's life was his military tra
 
 His military experience has been a defining moment in his life, instilling in him valuable life lessons that he continues to apply in his everyday life. It also helped him become a disciplined person and a more patriotic citizen.
 
-Throughout his service in the Namibian Defence Force (NDF), Nambili has demonstrated proficiency in emergency medicine, trauma care, patient evacuation, first aid, and primary health care. As a combat medic, he provides medical support to fellow service members in combat and training environments. His responsibilities include:
+Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in emergency medicine, trauma care, patient evacuation, first aid, and primary health care. As a combat medic, he provides medical support to fellow service members in combat and training environments. His responsibilities include:
 
 - Administering emergency medical treatment and dispersing treatment to members of the armed forces.
 - Observing medical procedures, combat casualty care, and evacuation.
@@ -16,11 +16,11 @@ Throughout his service in the Namibian Defence Force (NDF), Nambili has demonstr
 
 ## Education
 
-- Oshona Military School, Medical Specialisation and Combat Medic training, [2002]
+- Medical Specialisation and Combat Medic training, Oshona Military School, [2002]
 - Computer Programming, Institute of Information and Technology, [2012]
 - Big Data, [Istanbul University](https://www.istanbul.edu.tr/en/), [2014]
 - Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017-]
-- General Medicine, [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
+- Medicine, [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
 
 As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, Nambili has pursued a diverse range of certifications to continually expand his knowledge and skills. These certifications represent not only his dedication to health professional development but also his passion for staying abreast of the latest advancements in healthcare and medical science. Git Hub is proud to share these achievements as a testament to his ongoing pursuit of excellence in service to others.
 
@@ -40,6 +40,7 @@ I am a dedicated military medic with extensive experience providing medical care
 - [Stanford University School of Medicine - Transcript Summary](https://github.com/nambilisamuel/Certifications/blob/main/Stanford%20University%20School%20of%20Medicine%20Transcript%20Credit%20Summary.pdf)
 
 ## Technical Certifications
+- [Oracle Certified Foundations Associate - Certification](github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
 
 ## Experience
 
