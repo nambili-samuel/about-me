@@ -41,7 +41,8 @@ I am a dedicated military medic with extensive experience providing medical care
 
 ## Technical Certifications
 - [Oracle Certified Foundations Associate - Certification](github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
-
+- [Machine Learning with Python - IBM - Certification](github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
+   
 ## Experience
 
 ### Combat Medic, [Army Battle School], [2002] - 2008
