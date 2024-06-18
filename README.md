@@ -18,7 +18,11 @@ Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.n
 In addition to these duties, Nambili is responsible for general medical treatments and the well-being of members, ensuring they are fit and battle-ready for any operational scenarios. He also plays a critical role in training at Oshivelo Military Base and educating fellow service members on basic first aid and hygiene, enhancing the overall medical readiness of the force. His expertise in pharmacology and [environmental health](https://www.ehinz.ac.nz/indicators/overview/what-is-environmental-health/) allows him to manage and dispense medications effectively, contributing to the well-being and sanitation of personnel under his jurisdiction.
 ## Education
 
-- Medical Specialisation and Combat Medic training, Oshona Military School, [2002]
+- Early Childhood Education, Jamaica Nursery School, [1990]
+- Early Education, Omaalala Primary School, [1991]
+- Elementary Education, Oshikondiilongo Combined School, [2000]
+- Secondary Education, Oluno Senior Secondary School, [2002]
+- Military Training, Oshona Military School, [2002]
 - Computer Programming, Institute of Information and Technology, [2012]
 - Big Data, [Istanbul University](https://www.istanbul.edu.tr/en/), [2014]
 - Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017-]
