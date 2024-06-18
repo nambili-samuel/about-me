@@ -1,19 +1,21 @@
 ## About Nambili Samuel
 Nambili Samuel was born in Oshikango, Namibia, into a family descended from the Okandjera royal lineage. As a young boy, he grew up surrounded by people who always encouraged him to strive for greatness. He is a trained soldier and physician by profession, with extensive experience in public healthcare and national security. 
 
-One of the most significant events in Nambili Samuel's life was his military training. As a patriot, he was drawn to the idea of serving the Motherland, [Namibia](https://en.wikipedia.org/wiki/Namibia), and protecting her people. Nambili underwent rigorous training at [Osona military School)](https://www.google.com/search?q=at+Osona+military+School&oq=at+Osona+military+School&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MDE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), which instilled in him discipline and a sense of duty. It was during this traditional period from civilian life to the military that he developed a strong commitment and specialized medicine as a professional military career. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
+One of the most significant events in Nambili Samuel's life was his military training. As a patriot, he was drawn to the idea of serving the Motherland, [Namibia](https://en.wikipedia.org/wiki/Namibia), and protecting her people. Nambili underwent rigorous training at [Osona military School](https://www.google.com/search?q=at+Osona+military+School&oq=at+Osona+military+School&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MDE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), which instilled in him discipline and a sense of duty. It was during this traditional period from civilian life to the military that he developed a strong commitment and specialized medicine as a professional military career. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
 
 His military experience has been a defining moment in his entire life, instilling in him valuable life lessons that he continues to apply in his everyday life. It also helped him become a disciplined, mature person and a more patriotic citizen.
 
-Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in Emergency Medicine, Trauma Care, Patient Evacuation ['CASEVAC'](https://en.wikipedia.org/wiki/Casualty_evacuation), First Aid, [Pharmacology](https://www.ualberta.ca/pharmacology/about/what-is-pharmacology.html), and Primary Health Care. As a combat medic, he was deployed at several military hospitals—**Oshivelo Military Base**, **Grootfontein Military School**, and **Peter Mweshihange Military School** in Windhoek—to provide medical support to fellow service members in the force. His responsibilities include:
+Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in Emergency Medicine, Trauma Care, Patient Evacuation ['CASEVAC'](https://en.wikipedia.org/wiki/Casualty_evacuation), First Aid, [Pharmacology](https://www.ualberta.ca/pharmacology/about/what-is-pharmacology.html), and Primary Health Care. As a combat medic, he was deployed at several military hospitals—**Oshivelo Military Base**, **Grootfontein Military School**, and **Peter Mweshihange Military School** in Windhoek—to provide medical support to fellow service members in the force. Some of his responsibilities include:
 
-- Administering emergency medical treatment and dispersing treatment to members of the armed forces.
-- Observing medical procedures, combat casualty care, and evacuation.
-- Providing primary care services, including sick calls, immunizations, and preventive health screenings.
-- Conducting medical assessments and managing minor illnesses and injuries.
-- Assisting with medical readiness activities, including physical exams and medical screenings.
-- Collaborating with other healthcare providers to ensure comprehensive patient care in NDF.
+- Administering emergency medical treatment and dispersing medicines to members of the armed forces.
+- Observing medical procedures, ordering patient referrals, and evacuation.
+- Providing primary care services at sick bays, immunizations, and maintaining hygiene.
+- Conducting medical assessments and managing illnesses and injuries.
+- Assisting with medical readiness activities, including physical exams and screenings.
+- Collaborating with other civilian healthcare providers to ensure comprehensive patient care in NDF.
+- Coordinating a preventative HIV/AIDS program under [PEPFAR](https://na.usembassy.gov/our-relationship/pepfar/)’s pandemic control.
 
+In addition to these duties, Nambili is responsible for maintaining medical equipment and supplies, ensuring they are ready for use in various operational scenarios. He also plays a critical role in training and educating fellow service members on basic first aid and health maintenance, enhancing the overall medical readiness of the force. His expertise in pharmacology allows him to manage and dispense medications effectively, contributing to the well-being and recovery of personnel under his care.
 ## Education
 
 - Medical Specialisation and Combat Medic training, Oshona Military School, [2002]
