@@ -15,7 +15,7 @@ Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.n
 - Collaborating with other civilian healthcare providers to ensure comprehensive patient care in NDF.
 - Coordinating a preventative HIV/AIDS program under [PEPFAR](https://na.usembassy.gov/our-relationship/pepfar/)’s pandemic control.
 
-In addition to these duties, Nambili is responsible for maintaining medical equipment and supplies, ensuring they are ready for use in various operational scenarios. He also plays a critical role in training and educating fellow service members on basic first aid and health maintenance, enhancing the overall medical readiness of the force. His expertise in pharmacology allows him to manage and dispense medications effectively, contributing to the well-being and recovery of personnel under his care.
+In addition to these duties, Nambili is responsible for general medical treatments and the well-being of members, ensuring they are fit and battle-ready for any operational scenarios. He also plays a critical role in training at Oshivelo Military Base and educating fellow service members on basic first aid and hygiene, enhancing the overall medical readiness of the force. His expertise in pharmacology and [environmental health](https://www.ehinz.ac.nz/indicators/overview/what-is-environmental-health/) allows him to manage and dispense medications effectively, contributing to the well-being and sanitation of personnel under his jurisdiction.
 ## Education
 
 - Medical Specialisation and Combat Medic training, Oshona Military School, [2002]
