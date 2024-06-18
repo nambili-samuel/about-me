@@ -1,5 +1,5 @@
 ## About Nambili Samuel
-Nambili Samuel was born in Oshikango, Namibia, into a family descended from the Okandjera royal lineage. As a young boy, he grew up surrounded by people who always encouraged him to strive for greatness. He is a trained soldier and physician by profession, with extensive experience in public healthcare and national epidemiology. 
+Nambili Samuel was born in Oshikango, Namibia, into a family descended from the Okandjera royal lineage. As a young boy, he grew up surrounded by people who always encouraged him to strive for greatness. He is a trained soldier and physician by profession, with extensive experience in public healthcare and national security. 
 
 One of the most significant events in Nambili Samuel's life was his military training. As a patriot, he was drawn to the idea of serving the Motherland and protecting her people. Nambili underwent rigorous training, including medical combat courses, which instilled in him discipline and a sense of duty. It was during this time that he developed a strong commitment to a medical career as a professional military personnel. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
 
