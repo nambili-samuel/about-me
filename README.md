@@ -19,7 +19,7 @@ In addition to these duties, Nambili is responsible for general medical treatmen
 ## Education
 
 - Early Childhood Education, Jamaica Nursery School, [1990]
-- Early Education, Omaalala Primary School, [1991]
+- Primary Education, Omaalala Primary School, [1991]
 - Elementary Education, Oshikondiilongo Combined School, [2000]
 - Secondary Education, Oluno Senior Secondary School, [2002]
 - Military Training, Oshona Military School, [2002]
