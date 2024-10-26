@@ -25,7 +25,7 @@ In addition to these duties, Nambili is responsible for general medical treatmen
 - Military Training, Oshona Military School, [2002]
 - Computer Programming, Institute of Information and Technology, [2012]
 - Big Data, [Istanbul University](https://www.istanbul.edu.tr/en/), [2014]
-- Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017-]
+- Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017]
 - Medicine, [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
 
 As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, Nambili has pursued a diverse range of certifications to continually expand his knowledge and skills. These certifications represent not only his dedication to health professional development but also his passion for staying abreast of the latest advancements in healthcare and medical science. Git Hub is proud to share these achievements as a testament to his ongoing pursuit of excellence in service to others.
