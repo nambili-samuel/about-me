@@ -15,7 +15,7 @@ Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.n
 - Collaborating with other civilian healthcare providers to ensure comprehensive patient care in NDF.
 - Coordinating a preventative HIV/AIDS program under [PEPFAR](https://na.usembassy.gov/our-relationship/pepfar/)’s pandemic control.
 
-In addition to these duties, Nambili is responsible for general medical treatments and the well-being of members, ensuring they are fit and battle-ready for any operational scenarios. He also plays a critical role in training at Oshivelo Military Base and educating fellow service members on basic first aid and hygiene, enhancing the overall medical readiness of the force. His expertise in pharmacology and [environmental health](https://www.ehinz.ac.nz/indicators/overview/what-is-environmental-health/) allows him to manage and dispense medications effectively, contributing to the well-being and sanitation of personnel under his jurisdiction.
+Nambili is a dedicated professional with extensive experience in cyber warfare and intelligence. Throughout his service, he has demonstrated proficiency in his work, significantly contributing to mission success and the well-being of fellow service members. In addition to these duties, Nambili plays a critical role in general medical treatments and the well-being of members at Oshivelo Military Battle School under his jurisdiction.
 ## Education
 
 - Early Childhood Education, Jamaica Nursery School, [1990]
@@ -28,7 +28,7 @@ In addition to these duties, Nambili is responsible for general medical treatmen
 - Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017]
 - Medicine, [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
 
-As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, Nambili has pursued a diverse range of certifications to continually expand his knowledge and skills. These certifications represent not only his dedication to health professional development but also his passion for staying abreast of the latest advancements in healthcare and medical science. Git Hub is proud to share these achievements as a testament to his ongoing pursuit of excellence in service to others.
+As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, Nambili has pursued a diverse range of training to continually expand his knowledge and skills. These certifications represent not only his dedication to health professional development but also his passion for staying abreast of the latest advancements in healthcare and medical science. Git Hub is proud to share these achievements as a testament to his ongoing pursuit of excellence in service to others.
 
 I am a dedicated military medic with extensive experience providing medical care in challenging and austere environments. Throughout my service, I have demonstrated proficiency in emergency medicine, trauma care, and patient evacuation, contributing to mission success and the well-being of fellow service members.
 
