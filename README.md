@@ -5,7 +5,7 @@ One of the most significant events in Nambili Samuel's life was his military tra
 
 His military experience has been a defining moment in his entire life, instilling in him valuable life lessons that he continues to apply in his everyday life. It also helped him become a disciplined, mature person and a more patriotic citizen.
 
-Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in emergency medicine, evacuation ['CASEVAC'](https://en.wikipedia.org/wiki/Casualty_evacuation), [Pharmacology](https://www.ualberta.ca/pharmacology/about/what-is-pharmacology.html), and primary health care. As a combat medic, he was deployed at several military hospitals—**Army Battle School**, **Grootfontein Military Hospital**, and **Peter Mweshihange Military Hospital** in Windhoek—to provide medical support to fellow service members in the force. Some of his responsibilities included:
+Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in emergency medicine, evacuation ['CASEVAC'](https://en.wikipedia.org/wiki/Casualty_evacuation), primary health care and [pharmacology](https://www.ualberta.ca/pharmacology/about/what-is-pharmacology.html). As a combat medic, he was deployed at several military hospitals—**Army Battle School**, **Grootfontein Military Hospital**, and **Peter Mweshihange Military Hospital** in Windhoek—to provide medical support to fellow service members in the force. Some of his responsibilities included:
 
 - Administering emergency medical treatment and dispensing medications to armed forces personnel.
 - Observing medical procedures, managing patient referrals, and coordinating evacuations.
