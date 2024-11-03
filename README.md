@@ -12,7 +12,7 @@ Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.n
 - Providing primary care services in sick bays, administering immunizations, and ensuring hygiene standards.
 - Conducting medical assessments and providing care for illnesses and injuries.
 - Assisting with medical testing during training, including conducting physical exams and health screenings.
-- Collaborating with healthcare providers in civilian settings to ensure continuity of proper medical follow-ups.
+- Collaborating with healthcare providers in civilian settings to ensure the continuity of proper medical follow-ups.
 - Coordinating a preventative HIV/AIDS program under [PEPFAR](https://na.usembassy.gov/our-relationship/pepfar/)’s pandemic control.
 
 Nambili is a dedicated professional with extensive experience in cyber warfare and intelligence. Throughout his service, he has demonstrated exceptional proficiency, making significant contributions to mission success and the well-being of his fellow service members. In addition to his primary duties, Nambili plays a crucial role in providing general medical care and supporting the well-being of personnel at the Oshivelo Military Battle School under his jurisdiction.
