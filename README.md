@@ -74,9 +74,9 @@ As a lifelong learner committed to excellence and staying at the forefront of th
 - Crime Prevention
 
 
-## Media
+## Social Links
 
 - Email: samuelnambili@gmail.com
-- LinkedIn: [linkedin.com/in/nambilisamuel]
+- LinkedIn: [nambilisamuel](https://www.linkedin.com/in/nambilisamuel/)
 - Website: [www.sciencetechniz.com]
 
