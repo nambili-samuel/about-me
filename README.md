@@ -5,17 +5,18 @@ One of the most significant events in Nambili Samuel's life was his military tra
 
 His military experience has been a defining moment in his entire life, instilling in him valuable life lessons that he continues to apply in his everyday life. It also helped him become a disciplined, mature person and a more patriotic citizen.
 
-Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in Emergency Medicine, Trauma Care, Patient Evacuation ['CASEVAC'](https://en.wikipedia.org/wiki/Casualty_evacuation), First Aid, [Pharmacology](https://www.ualberta.ca/pharmacology/about/what-is-pharmacology.html), and Primary Health Care. As a combat medic, he was deployed at several military hospitals—**Army Battle School**, **Grootfontein Military Hospital**, and **Peter Mweshihange Military Hospital** in Windhoek—to provide medical support to fellow service members in the force. Some of his responsibilities include:
+Throughout his service in the [Namibian Defence Force (NDF)](https://modva.gov.na), Nambili has demonstrated proficiency in emergency medicine, Patient Evacuation ['CASEVAC'](https://en.wikipedia.org/wiki/Casualty_evacuation), [Pharmacology](https://www.ualberta.ca/pharmacology/about/what-is-pharmacology.html), and Primary Health Care. As a combat medic, he was deployed at several military hospitals—**Army Battle School**, **Grootfontein Military Hospital**, and **Peter Mweshihange Military Hospital** in Windhoek—to provide medical support to fellow service members in the force. Some of his responsibilities included:
 
-- Administering emergency medical treatment and dispersing medicines to members of the armed forces.
-- Observing medical procedures, ordering patient referrals, and evacuation.
-- Providing primary care services at sick bays, immunizations, and maintaining hygiene.
-- Conducting medical assessments and managing illnesses and injuries.
-- Assisting with medical readiness activities, including physical exams and screenings.
-- Collaborating with other civilian healthcare providers to ensure comprehensive patient care in NDF.
+- Administering emergency medical treatment and dispensing medications to armed forces personnel.
+- Observing medical procedures, managing patient referrals, and coordinating evacuations.
+- Providing primary care services in sick bays, administering immunizations, and ensuring hygiene standards.
+- Conducting medical assessments and providing care for illnesses and injuries.
+- Assisting with medical testing during training, including conducting physical exams and health screenings.
+- Collaborating with other healthcare providers in civilian settings to ensure continuity of care and proper medical follow-ups.
 - Coordinating a preventative HIV/AIDS program under [PEPFAR](https://na.usembassy.gov/our-relationship/pepfar/)’s pandemic control.
 
-Nambili is a dedicated professional with extensive experience in cyber warfare and intelligence. Throughout his service, he has demonstrated proficiency in his work, significantly contributing to mission success and the well-being of fellow service members. In addition to these duties, Nambili plays a critical role in general medical treatments and the well-being of members at Oshivelo Military Battle School under his jurisdiction.
+Nambili is a dedicated professional with extensive experience in cyber warfare and intelligence. Throughout his service, he has demonstrated exceptional proficiency, making significant contributions to mission success and the well-being of his fellow service members. In addition to his primary duties, Nambili plays a crucial role in providing general medical care and supporting the well-being of personnel at the Oshivelo Military Battle School under his jurisdiction.
+
 ## Education
 
 - Early Childhood Education, Jamaica Nursery School, [1990]
@@ -28,9 +29,7 @@ Nambili is a dedicated professional with extensive experience in cyber warfare a
 - Bioengineering, [Cyprus International University](https://www.ciu.edu.tr/en), [2017]
 - Medicine, [Kharkiv National Medical University](https://knmu.edu.ua/en/), [2021]
 
-As a lifelong learner committed to excellence and staying ahead of the curve in the medical field, Nambili has pursued a diverse range of training to continually expand his knowledge and skills. These certifications represent not only his dedication to health professional development but also his passion for staying abreast of the latest advancements in healthcare and medical science. Git Hub is proud to share these achievements as a testament to his ongoing pursuit of excellence in service to others.
-
-I am a dedicated military medic with extensive experience providing medical care in challenging and austere environments. Throughout my service, I have demonstrated proficiency in emergency medicine, trauma care, and patient evacuation, contributing to mission success and the well-being of fellow service members.
+As a lifelong learner committed to excellence and staying at the forefront of the digital age, Nambili has pursued a broad range of training to continually expand his knowledge and skills. These certifications reflect not only his dedication to professional development but also his passion to pursue the latest advancements in healthcare, science, and technology. GitHub is proud to share these achievements as a testament to his ongoing commitment to excellence in service to others.
 
 ## Medical Certifications
 
