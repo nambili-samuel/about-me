@@ -78,5 +78,5 @@ As a lifelong learner committed to excellence and staying at the forefront of th
 
 - Email: samuelnambili@gmail.com
 - LinkedIn: [nambilisamuel](https://www.linkedin.com/in/nambilisamuel/)
-- Website: [www.sciencetechniz.com]
+- Blog: www.sciencetechniz.com
 
