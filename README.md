@@ -1,7 +1,11 @@
 ## About Nambili Samuel
 Nambili Samuel was born in Oshikango, Namibia, into a family descended from the [Ongandjera](https://en.wikipedia.org/wiki/Ongandjera) royal lineage. As a young boy, he grew up surrounded by people who always encouraged him to strive for greatness. He is a trained soldier and medical physician by profession, with extensive experience in public healthcare and national security. 
 
-One of the most significant events in Nambili Samuel's life was his military training. As a patriot, he was drawn to the idea of serving the Motherland, [Namibia](https://en.wikipedia.org/wiki/Namibia), and protecting her people. Nambili underwent rigorous training at [Osona military School](https://www.google.com/search?q=at+Osona+military+School&oq=at+Osona+military+School&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MDE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), which instilled in him discipline and a sense of duty. It was during this traditional period from civilian life to the military that he developed a strong commitment and specialized medicine as a professional military career. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
+One of Nambili Samuel's most defining experiences was his military training. As a patriot, he was drawn to the idea of serving the Motherland, [Namibia](https://en.wikipedia.org/wiki/Namibia), and protecting her people. Nambili underwent rigorous training at [Osona military School](https://www.google.com/search?q=at+Osona+military+School&oq=at+Osona+military+School&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MDE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), which instilled in him discipline and a sense of duty. 
+
+It was during this traditional period from civilian life to the military that he developed a strong commitment and specialized medicine as a professional military career. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
+
+He underwent rigorous training at Osona Military School, specializing in medicine. Throughout his 19 years in the Namibian Defence Force (NDF), Nambili gained expertise in various specialties, including intelligence, criminal justice, and medicine. Much of his military work remains classified, in the interest of national security. As an expert in scientific writing, and computer programming, his work has significantly contributed to various scientific workshops collaborating with reputable global institutions, such as IBM, and the World Health Organization (WHO), to name but a few. 
 
 His military experience has been a defining moment in his entire life, instilling in him valuable life lessons that he continues to apply in his everyday life. It also helped him become a disciplined, mature person and a more patriotic citizen.
 
@@ -48,7 +52,7 @@ As a lifelong learner committed to excellence and staying at the forefront of th
 - [Oracle Certified Foundations Associate - Certification](github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
 - [Machine Learning with Python - IBM - Certification](github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
    
-## Experience
+## Military Experience
 
 ### Combat Medic, [Army Battle School], [2002] - 2008
 ### Military Police, [Suiderhof Military Base], [2008] - 2012
