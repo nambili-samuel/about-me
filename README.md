@@ -60,22 +60,24 @@ As a lifelong learner committed to excellence and staying at the forefront of th
 
 ## Skills
 
-- Battlefield and Trauma Management
-- First-aid and Emergency medical treatment
+- Trauma Management
+- Emergency Medical Treatment
 - Primary Healthcare
 - Epidemiology and Disease Control
 - Hygiene and Sanitation
 - Next Generation Sequences
 - DNA Profiling
 - Medical Evacuation and Transport
-- Leadership and teamwork
-- Criminal Procedure Enforcement
-- Crowd Control
+- Leadership and Teamwork
+- Criminal Enforcement
+- Crowd Riot Control
 - Security Operations
-- Data Science
-- Cyber Security
-- Crime investigation
-- Crime Prevention
+- Big Data and Analytics
+- Machine Learning
+- Artificial Intelligence
+- Cyber Security Awareness
+- Crime investigations
+- Crime Preventions
 
 
 ## Social Links
