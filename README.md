@@ -52,7 +52,7 @@ As a lifelong learner committed to excellence and staying at the forefront of th
 
 ### Combat Medic, [Army Battle School], [2002] - 2008
 ### Military Police, [Suiderhof Military Base], [2008] - 2012
-### Defence Intelligence [Ministry of Defence], [2012] - 2014
+### Defence Intelligence [Ministry of Defence], [2012] - 2020
 
 ## Skills
 
