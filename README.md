@@ -32,15 +32,15 @@ Nambili is a dedicated professional with extensive experience in cyber warfare a
 
 ## Medical Certifications
 
-- [Association for Molecular Pathology - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
-- [International Diabetes Federation - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
-- [National Institutes of Health - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
-- [World Health Organization - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Epidemiology%20-%20WHO.pdf)
-- [Harvard School of Medicine - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Havard%20School%20of%20Medicine.pdf)
-- [Johns Hopkins University School of Medicine - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Immuno-engineering.pdf)
-- [Medical Library Association - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Medical%20Library%20Association.pdf)
-- [Next-Generation Sequencing - Certification](https://github.com/nambilisamuel/Certifications/blob/main/Next-Generation%20Sequencing.pdf)
-- [Stanford University School of Medicine - Certification](https://github.com/nambilisamuel/Certifications/blob/main/HealthPro%20Advantage.pdf)
+- [Association for Molecular Pathology](https://github.com/nambilisamuel/Certifications/blob/main/Association%20for%20Molecular%20Pathology.pdf)
+- [International Diabetes Federation](https://github.com/nambilisamuel/Certifications/blob/main/Biosimilar%20Insulin.pdf)
+- [National Institutes of Health](https://github.com/nambilisamuel/Certifications/blob/main/Clinical%20Pharmacology.pdf)
+- [World Health Organization](https://github.com/nambilisamuel/Certifications/blob/main/Epidemiology%20-%20WHO.pdf)
+- [Harvard School of Medicine](https://github.com/nambilisamuel/Certifications/blob/main/Havard%20School%20of%20Medicine.pdf)
+- [Johns Hopkins University](https://github.com/nambilisamuel/Certifications/blob/main/Immuno-engineering.pdf)
+- [Medical Library Association](https://github.com/nambilisamuel/Certifications/blob/main/Medical%20Library%20Association.pdf)
+- [Next-Generation Sequencing](https://github.com/nambilisamuel/Certifications/blob/main/Next-Generation%20Sequencing.pdf)
+- [Stanford University School of Medicine](https://github.com/nambilisamuel/Certifications/blob/main/HealthPro%20Advantage.pdf)
 - [Stanford University School of Medicine - Transcript Summary](https://github.com/nambilisamuel/Certifications/blob/main/Stanford%20University%20School%20of%20Medicine%20Transcript%20Credit%20Summary.pdf)
 
 ## Technical Certifications
