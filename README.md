@@ -25,19 +25,6 @@
   </tr>
 </table>
 
-| Language      | Time Spent     | Progress Bar                              | Percentage |
-| ------------- | -------------- | ----------------------------------------- | ---------- |
-| Python        | 25 hrs 00 mins | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 18.00%     |
-| JavaScript    | 10 hrs 21 mins | 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 07.45%     |
-| C++           | 8 hrs 45 mins  | 🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 06.30%     |
-| HTML          | 6 hrs 30 mins  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 04.68%     |
-| SQL           | 5 hrs 15 mins  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 03.78%     |
-| Markdown      | 14 hrs 36 mins | 🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 10.51%     |
-| Docker        | 7 hrs 30 mins  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 05.40%     |
-| Ruby          | 3 hrs 45 mins  | 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 02.70%     |
-| Perl          | 3 hrs 00 mins  | 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 02.16%     |
-| Go            | 2 hrs 45 mins  | 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 01.98%     |
-
 Nambili Samuel was born in Oshikango, Namibia, into a family descended from the [Ongandjera](https://en.wikipedia.org/wiki/Ongandjera) royal lineage. As a young boy, he grew up surrounded by people who always encouraged him to strive for greatness. He is a trained soldier and medical physician by profession, with extensive experience in public healthcare and national security. One of Nambili Samuel's most defining experiences was his military training. As a patriot, he was drawn to the idea of serving the Motherland, [Namibia](https://en.wikipedia.org/wiki/Namibia), and protecting her people. Nambili underwent rigorous training at [Osona Military School](https://www.google.com/search?q=at+Osona+military+School&oq=at+Osona+military+School&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MDE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), which instilled in him discipline and a sense of duty.
 
 It was during this transition from civilian life to the military that he developed a strong commitment and specialized medicine as a professional military career. The military groomed him and taught him the values of discipline, teamwork, and leadership. Through basic military training, he learned the importance of working diligently toward a target goal.
