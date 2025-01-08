@@ -7,7 +7,6 @@
 [![Sponsors](https://img.shields.io/badge/Sponsors-lightgrey?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/your_username)
 [![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)
 
-## About Nambili Samuel
 
 <table>
   <tr>
@@ -15,7 +14,7 @@
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM3JTx3doFvBfXoZK8gt0g5TH5rwzW2inhaD9E0wgM5yes434A0ScMyU8CEku0Z2hAtbNOnsiKyhQbH-osNvFC1yOcsNlSyNTSIPVKJa4PUAUUFmq3TW7HoOolNuBdewWZFxwJJdfzGs1EhcRsh0gRXw97HlLXbQTyRlqO4TQU0fUPrKSnq6nVeXy7UuQy/s16000/ascii-art.png" alt="ASCII Art" style="width: 100%;">
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <h2>Summary</h2>
+      <h2>About Nambili Samuel</h2>
       <p><strong>Country:</strong> Namibia</p>
       <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
       <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Git, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
