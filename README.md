@@ -1,10 +1,4 @@
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-brightgreen?style=for-the-badge&logo=academia&logoColor=white)](link_to_your_cv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
-[![Bluesky](https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky)](https://bluesky.app/profile/your_username)
-[![Sponsors](https://img.shields.io/badge/Sponsors-lightgrey?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/your_username)
-[![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)
-
-
+## About Nambili Samuel
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
@@ -107,6 +101,10 @@ Nambili is a dedicated professional with extensive experience in cyber warfare a
 
 ## Social Links
 
-- Email: samuelnambili@gmail.com  
-- LinkedIn: [nambilisamuel](https://www.linkedin.com/in/nambilisamuel/)  
-- Blog: [www.sciencetechniz.com](http://www.sciencetechniz.com)  
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-brightgreen?style=for-the-badge&logo=academia&logoColor=white)](link_to_your_cv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
+[![Bluesky](https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky)](https://bluesky.app/profile/your_username)
+[![Sponsors](https://img.shields.io/badge/Sponsors-lightgrey?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/your_username)
+[![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)
+
+
