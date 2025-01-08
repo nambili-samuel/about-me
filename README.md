@@ -99,7 +99,7 @@ Nambili is a dedicated professional with extensive experience in cyber warfare a
 - Crime Investigations  
 - Crime Prevention  
 
-## Social Links
+## Connect
 
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-brightgreen?style=for-the-badge&logo=academia&logoColor=white)](link_to_your_cv)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/your_username)
