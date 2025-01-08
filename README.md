@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your_username)
 [![Bluesky](https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky)](https://bluesky.app/profile/your_username)
 [![Twitter](https://img.shields.io/twitter/follow/your_username?style=for-the-badge&logo=twitter)](https://twitter.com/your_username)
-[![Mastodon](https://img.shields.io/mastodon/follow/your_username?style=for-the-badge&logo=mastodon)](https://mastodon.social/@your_username)
 [![Sponsors](https://img.shields.io/badge/Sponsors-lightgrey?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/your_username)
 [![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)
 
