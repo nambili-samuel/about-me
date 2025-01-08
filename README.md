@@ -1,5 +1,3 @@
-
-
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-brightgreen?style=for-the-badge&logo=academia&logoColor=white)](link_to_your_cv)
 [![GitHub followers](https://img.shields.io/github/followers/your_username?label=GitHub&style=for-the-badge&logo=github)](https://github.com/your_username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel)
