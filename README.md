@@ -8,7 +8,7 @@
       <h2>Summary</h2>
       <p><strong>Country:</strong> Namibia</p>
       <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
-      <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Git, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
+      <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Markdown, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
       <p><strong>Projects:</strong></p>
       <ul>
         <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">DNA Database</a>: Is a powerful investigative and identification tool.</li>
