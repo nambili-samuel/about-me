@@ -71,7 +71,7 @@ Nambili is a dedicated professional with extensive experience in cyber warfare a
 
 - [Oracle Certified Foundations Associate - Certification](https://github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
 - [Machine Learning with Python - IBM - Certification](https://github.com/Nambili-Samuel/Certifications/blob/main/Oracle%20Certification.pdf)
-- [Ethical Hacker - CISCO - Certification](https://www.credly.com/badges/9b4fab4d-f0f0-4f85-be10-837cbc6f64ce)
+- [Ethical Hacker - CISCO Academy - Certification](https://www.credly.com/badges/9b4fab4d-f0f0-4f85-be10-837cbc6f64ce)
 
 ## Military Experience
 
