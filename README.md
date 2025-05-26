@@ -47,7 +47,7 @@ Nambili is a dedicated professional with extensive experience in cyber warfare a
 - Early Childhood Education, Jamaica Nursery School, [1990]
 - Primary Education, Omaalala Primary School, [1991]
 - Elementary Education, Oshikondiilongo Combined School, [2000]
-- Secondary Education, Oluno Senior Secondary School, [2002]
+- Secondary Education, Oluno Senior Secondary School, [2001]
 - Military Training, Osona Military School, [2002]
 - Computer Programming, Institute of Information and Technology, [2012]
 - Big Data, [Istanbul University](https://www.istanbul.edu.tr/en/), [2014]
